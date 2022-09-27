@@ -1,0 +1,16 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-size: 35px;
+}
+.img{
+    width: 50px;
+    border-radius: 20px;
+}
+h1{
+    color:chocolate
+}
+
+p{
+    color:blue
+}
